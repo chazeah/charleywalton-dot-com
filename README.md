@@ -1,2 +1,1 @@
-# charleywalton-dot-com
-The static files that power charleywalton.com
+These are the static files that power [charleywalton.com](https://www.charleywalton.com/).
